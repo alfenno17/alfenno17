@@ -1,6 +1,6 @@
 # Halo, saya Alfenno Septian Ramadhan! 🚀
 
-Saya adalah siswa SMK PGRI 03 MALANG jurusan Rekayasa Perangkat Lunak (RPL) kelas 11 yang memiliki ketertarikan besar dalam dunia pengembangan aplikasi web dan desktop. Saat ini, saya fokus memperdalam *tech stack* seperti PHP, JavaScript, dan Java, serta terbuka untuk berbagai kesempatan magang/Prakerin industri untuk mengimplementasikan kode ke dalam solusi dunia nyata.
+Saya adalah siswa SMK PGRI 03 MALANG jurusan Rekayasa Perangkat Lunak (RPL) kelas 11 yang memiliki ketertarikan besar dalam dunia pengembangan aplikasi web dan desktop. Saat ini, saya fokus memperdalam *tech stack* seperti PHP, dan JavaScript, serta terbuka untuk berbagai kesempatan magang/Prakerin industri untuk mengimplementasikan kode ke dalam solusi dunia nyata.
 
 ---
 
